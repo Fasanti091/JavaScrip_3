@@ -1,0 +1,39 @@
+[
+	{
+	  "title": "RedBull",
+	  "description": "Bebida energizante con variados sabores de frutas",
+	  "price": 6800,
+	  "thumbnail": "",
+	  "code": 101,
+	  "stock": 21,
+	  "id": 1
+  },
+  {
+	  "title": "Redbull Red",
+	  "description": "Es una bebida energizante distribuida por productos Postobon",
+	  "price": 6800,
+	  "thumbnail": "",
+	  "code": 102,
+	  "stock": 7,
+	  "id": 2
+  },
+  {
+	  "title": "Redbull white",
+	  "description": "Es una de las bebidas mas vendidas actualmente en Colombia",
+	  "price": 1849,
+	  "thumbnail": "",
+	  "code": 103,
+	  "stock": 5,
+	  "id": 3
+  }
+  ,
+  {
+	  "title": "Redbull orange",
+	  "description": "Bebida catalogada por ser un producto apto para deportistas",
+	  "price": 4415,
+	  "thumbnail": "",
+	  "code": 104,
+	  "stock": 33,
+	  "id": 4
+  }
+  ]
